@@ -1,182 +1,244 @@
 [
   {
-    "id": blog1,
+    "id": "blog1",
     "title": "The Impact of 5G Technology on the Digital Landscape",
     "image": "5g_impact.jpg",
     "date": "2024-02-03",
-    "article": "The rollout of 5G technology has ushered in a new era of connectivity, revolutionizing the digital landscape. In this article, we explore the profound impact of 5G on industries, from enhanced mobile networks to the Internet of Things (IoT), paving the way for unprecedented innovation and efficiency.",
+    "article": "...",
     "category": "Technology",
-    "author": "Alice Johnson"
+    "author": "Alice Johnson",
+    "tags": [
+      "#5GTechnology",
+      "#DigitalTransformation",
+      "#NextGenConnectivity",
+      "#TechInnovation",
+      "#MobileRevolution"
+    ]
   },
   {
-    "id": blog2,
+    "id": "blog2",
     "title": "Unlocking the Secrets of Quantum Computing",
     "image": "quantum_computing.jpg",
     "date": "2024-02-10",
-    "article": "Quantum computing, with its promise of solving complex problems exponentially faster, is on the horizon. Join us on a journey to unravel the mysteries of quantum computing, understand its potential applications, and explore the implications for the future of computation.",
+    "article": "...",
     "category": "Science",
-    "author": "Bob Smith"
+    "author": "Bob Smith",
+    "tags": [
+      "#QuantumComputing",
+      "#FutureTechnology",
+      "#Innovation",
+      "#TechExploration",
+      "#ComputationalRevolution"
+    ]
   },
   {
-    "id": blog3,
+    "id": "blog3",
     "title": "The Art of Data Visualization: Transforming Information into Insight",
     "image": "data_visualization.jpg",
     "date": "2024-02-17",
-    "article": "Data visualization is an essential tool for making sense of vast amounts of information. This blog post delves into the art of data visualization, showcasing its importance, techniques, and real-world applications across various industries, from business analytics to scientific research.",
+    "article": "...",
     "category": "Data Science",
-    "author": "Elena Rodriguez"
+    "author": "Elena Rodriguez",
+    "tags": [
+      "#DataVisualization",
+      "#Analytics",
+      "#InformationDesign",
+      "#DataScience",
+      "#VisualInsights"
+    ]
   },
   {
-    "id": blog4,
+    "id": "blog4",
     "title": "Mindfulness in the Digital Age: Finding Balance in a Connected World",
     "image": "mindfulness_digital_age.jpg",
     "date": "2024-02-24",
-    "article": "As our lives become increasingly digital, the need for mindfulness has never been more apparent. Explore the ways in which mindfulness practices can help individuals find balance, manage stress, and foster well-being in the midst of a fast-paced, technology-driven world.",
+    "article": "...",
     "category": "Health",
-    "author": "David Thompson"
+    "author": "David Thompson",
+    "tags": [
+      "#Mindfulness",
+      "#DigitalWellness",
+      "#StressManagement",
+      "#Wellbeing",
+      "#BalancedLiving"
+    ]
   },
   {
-    "id": blog5,
+    "id": "blog5",
     "title": "Augmented Reality: Bridging the Gap Between Virtual and Real",
     "image": "augmented_reality.jpg",
     "date": "2024-03-02",
-    "article": "Augmented Reality (AR) is transforming how we perceive and interact with the world. This article dives into the applications of AR across various industries, from gaming and education to healthcare, exploring its potential to bridge the gap between the virtual and real worlds.",
+    "article": "...",
     "category": "Technology",
-    "author": "Sophie Brown"
+    "author": "Sophie Brown",
+    "tags": [
+      "#AugmentedReality",
+      "#VirtualReality",
+      "#ARApplications",
+      "#TechInnovation",
+      "#DigitalExperiences"
+    ]
   },
   {
-    "id": blog6,
+    "id": "blog6",
     "title": "The Rise of E-Learning: Revolutionizing Education in the Digital Age",
     "image": "elearning.jpg",
     "date": "2024-03-09",
-    "article": "E-Learning has become a cornerstone of education in the digital age. Join us in exploring the evolution of online education, its benefits, challenges, and the role it plays in shaping the future of learning across diverse fields and demographics.",
+    "article": "...",
     "category": "Education",
-    "author": "James Miller"
+    "author": "James Miller",
+    "tags": [
+      "#ELearning",
+      "#DigitalEducation",
+      "#OnlineLearning",
+      "#EdTech",
+      "#EducationalRevolution"
+    ]
   },
   {
-    "id": blog7,
+    "id": "blog7",
     "title": "Biohacking: Enhancing Human Potential through Technology",
     "image": "biohacking.jpg",
     "date": "2024-03-16",
-    "article": "Biohacking, the practice of optimizing one's biology through technology, is gaining momentum. This blog post delves into the world of biohacking, exploring its methods, ethical considerations, and the potential for enhancing human capabilities in areas ranging from health to cognitive performance.",
+    "article": "...",
     "category": "Health",
-    "author": "Emma White"
+    "author": "Emma White",
+    "tags": [
+      "#Biohacking",
+      "#HumanEnhancement",
+      "#HealthTech",
+      "#TechnologyInHealth",
+      "#BiologicalOptimization"
+    ]
   },
   {
-    "id": blog8,
-    "title": "Cryptocurrency: Decoding the Future of Digital Finance",
-    "image": "cryptocurrency.jpg",
-    "date": "2024-03-23",
-    "article": "Cryptocurrencies like Bitcoin and Ethereum are reshaping the financial landscape. This article provides an in-depth look into the world of cryptocurrency, exploring its underlying technology, impact on traditional finance, and the potential for decentralized and borderless transactions.",
-    "category": "Finance",
-    "author": "Alex Turner"
-  },
+  "id": blog8,
+  "title": "Cryptocurrency: Decoding the Future of Digital Finance",
+  "image": "cryptocurrency.jpg",
+  "date": "2024-03-23",
+  "article": "...",
+  "category": "Finance",
+  "author": "Alex Turner",
+  "tags": ["cryptocurrency", "finance", "digital", "future", "blockchain", "bitcoin", "ethereum"]
+},
+{
+  "id": blog9,
+  "title": "The Power of Generative Design in Architecture",
+  "image": "generative_design.jpg",
+  "date": "2024-03-30",
+  "article": "...",
+  "category": "Architecture",
+  "author": "Olivia Garcia",
+  "tags": ["architecture", "generative design", "artificial intelligence", "algorithms", "machine learning", "design process", "optimization", "sustainability", "aesthetics"]
+},
+{
+  "id": blog10,
+  "title": "Exploring the Marvels of Virtual Reality Entertainment",
+  "image": "virtual_reality.jpg",
+  "date": "2024-04-06",
+  "article": "...",
+  "category": "Entertainment",
+  "author": "Daniel Clark",
+  "tags": ["virtual reality", "VR", "entertainment", "gaming", "film", "immersive experiences", "storytelling", "user engagement", "interactive entertainment"]
+},
+{
+  "id": blog11,
+  "title": "Advancements in Biotechnology: Shaping the Future of Medicine",
+  "image": "biotechnology.jpg",
+  "date": "2024-04-13",
+  "article": "...",
+  "category": "Health",
+  "author": "Grace Johnson",
+  "tags": ["biotechnology", "medicine", "healthcare", "gene editing", "personalized medicine", "future of medicine", "health breakthroughs"]
+},
+{
+  "id": blog12,
+  "title": "Smart Cities: Building the Urban Centers of Tomorrow",
+  "image": "smart_cities.jpg",
+  "date": "2024-04-20",
+  "article": "...",
+  "category": "Technology",
+  "author": "Matthew Taylor",
+  "tags": ["smart cities", "technology", "urban living", "infrastructure", "data-driven governance", "sustainability", "efficiency", "urban centers"]
+},
+{
+  "id": blog13,
+  "title": "The Evolution of Social Media: From Connecting to Influencing",
+  "image": "social_media_evolution.jpg",
+  "date": "2024-04-27",
+  "article": "...",
+  "category": "Social Media",
+  "author": "Sophia Robinson",
+  "tags": ["social media", "communication", "evolution", "trends", "public discourse", "culture", "influence", "connection"]
+},
+{
+  "id": blog14,
+  "title": "Space Tourism: Journeying Beyond Earth's Atmosphere",
+  "image": "space_tourism.jpg",
+  "date": "2024-05-04",
+  "article": "...",
+  "category": "Science",
+  "author": "William Turner",
+  "tags": ["space tourism", "science", "travel", "earth", "space exploration", "commercial space travel", "companies", "technologies"]
+},
+{
+  "id": blog15,
+  "title": "Blockchain in Supply Chain: Transforming Transparency and Traceability",
+  "image": "blockchain_supply_chain.jpg",
+  "date": "2024-05-11",
+  "article": "...",
+  "category": "Technology",
+  "author": "Laura Davis",
+  "tags": ["blockchain", "technology", "supply chain", "transparency", "traceability", "logistics", "manufacturing", "accountability", "fraud reduction"]
+},
   {
-    "id": blog9,
-    "title": "The Power of Generative Design in Architecture",
-    "image": "generative_design.jpg",
-    "date": "2024-03-30",
-    "article": "Generative design, fueled by artificial intelligence, is transforming the field of architecture. Join us in exploring how algorithms and machine learning are influencing the design process, optimizing structures for efficiency, sustainability, and aesthetic appeal.",
-    "category": "Architecture",
-    "author": "Olivia Garcia"
-  },
-  {
-    "id": blog10,
-    "title": "Exploring the Marvels of Virtual Reality Entertainment",
-    "image": "virtual_reality.jpg",
-    "date": "2024-04-06",
-    "article": "Virtual Reality (VR) is revolutionizing entertainment, offering immersive experiences across gaming, film, and more. This blog post delves into the marvels of virtual reality, examining its impact on storytelling, user engagement, and the future of interactive entertainment.",
-    "category": "Entertainment",
-    "author": "Daniel Clark"
-  },
-  {
-    "id": blog11,
-    "title": "Advancements in Biotechnology: Shaping the Future of Medicine",
-    "image": "biotechnology.jpg",
-    "date": "2024-04-13",
-    "article": "Biotechnology continues to drive breakthroughs in medicine and healthcare. Explore the latest advancements in the field, from gene editing technologies to personalized medicine, and understand how biotechnology is shaping the future of healthcare for individuals around the globe.",
-    "category": "Health",
-    "author": "Grace Johnson"
-  },
-  {
-    "id": blog12,
-    "title": "Smart Cities: Building the Urban Centers of Tomorrow",
-    "image": "smart_cities.jpg",
-    "date": "2024-04-20",
-    "article": "Smart cities leverage technology to enhance urban living, from intelligent infrastructure to data-driven governance. Join us in exploring the concept of smart cities, their potential benefits, and the challenges they face in building sustainable, efficient, and livable urban centers for the future.",
-    "category": "Technology",
-    "author": "Matthew Taylor"
-  },
-  {
-    "id": blog13,
-    "title": "The Evolution of Social Media: From Connecting to Influencing",
-    "image": "social_media_evolution.jpg",
-    "date": "2024-04-27",
-    "article": "Social media has evolved beyond connecting friends and family; it has become a powerful tool for influencing opinions and shaping trends. This article examines the evolution of social media, its impact on communication, and the role it plays in shaping public discourse and culture.",
-    "category": "Social Media",
-    "author": "Sophia Robinson"
-  },
-  {
-    "id": blog14,
-    "title": "Space Tourism: Journeying Beyond Earth's Atmosphere",
-    "image": "space_tourism.jpg",
-    "date": "2024-05-04",
-    "article": "Space tourism is no longer a distant dream; it's becoming a reality. Delve into the world of commercial space travel, exploring the companies, technologies, and experiences that are making space tourism accessible to private individuals and reshaping our understanding of travel beyond Earth.",
-    "category": "Science",
-    "author": "William Turner"
-  },
-  {
-    "id": blog15,
-    "title": "Blockchain in Supply Chain: Transforming Transparency and Traceability",
-    "image": "blockchain_supply_chain.jpg",
-    "date": "2024-05-11",
-    "article": "Blockchain technology is revolutionizing supply chain management by enhancing transparency and traceability. Join us in exploring how blockchain is reshaping the logistics and manufacturing industries, ensuring accountability, reducing fraud, and creating more efficient global supply chains.",
-    "category": "Technology",
-    "author": "Laura Davis"
-  },
-  {
-    "id": blog16,
+    "id": "blog16",
     "title": "The Intersection of Art and Technology: A Creative Revolution",
     "image": "art_technology_intersection.jpg",
     "date": "2024-05-18",
-    "article": "The convergence of art and technology is sparking a creative revolution, with innovative expressions pushing the boundaries of traditional artistic mediums. Explore how artists are leveraging technology, including virtual reality and AI, to create immersive and interactive experiences that redefine the artistic landscape.",
+    "article": "...",
     "category": "Art",
-    "author": "Chris Harrison"
+    "author": "Chris Harrison",
+    "tags": ["art", "technology", "creativity", "innovation", "artistic expression", "virtual reality", "AI", "immersive experiences"]
   },
   {
-    "id": blog17,
+    "id": "blog17",
     "title": "Advancing Robotics: From Assembly Lines to Everyday Life",
     "image": "advancing_robotics.jpg",
     "date": "2024-05-25",
-    "article": "Advancements in robotics are transcending traditional industrial applications, entering our daily lives in unprecedented ways. This blog post examines the evolution of robotics, from factory assembly lines to collaborative robots (cobots) and explores their potential impact on various sectors, including healthcare and personal assistance.",
+    "article": "...",
     "category": "Technology",
-    "author": "Megan Carter"
+    "author": "Megan Carter",
+    "tags": ["robotics", "technology", "automation", "collaboration", "healthcare", "personal assistance", "manufacturing", "assembly lines"]
   },
   {
-    "id": blog18,
+    "id": "blog18",
     "title": "Green Energy Revolution: Harnessing the Power of Renewable Resources",
     "image": "green_energy.jpg",
     "date": "2024-06-01",
-    "article": "The global shift towards green energy is essential for combating climate change. Join us in exploring the renewable energy revolution, from solar and wind power to innovative technologies, and understand how these sustainable practices are reshaping the future of energy production and consumption.",
+    "article": "...",
     "category": "Environment",
-    "author": "Ryan Martinez"
+    "author": "Ryan Martinez",
+    "tags": ["green energy", "renewable energy", "environment", "climate change", "sustainability", "solar power", "wind power", "energy consumption"]
   },
   {
-    "id": blog19,
+    "id": "blog19",
     "title": "The Future of Work: Embracing Remote Collaboration",
     "image": "future_of_work.jpg",
     "date": "2024-06-08",
-    "article": "The traditional office paradigm is evolving as remote work becomes a prevalent mode of collaboration. This article explores the future of work, highlighting the benefits and challenges of remote collaboration, the role of technology in facilitating seamless communication, and the transformation of the modern workplace.",
+    "article": "...",
     "category": "Business",
-    "author": "Jessica Adams"
+    "author": "Jessica Adams",
+    "tags": ["future of work", "remote work", "collaboration", "technology", "communication", "business", "workplace transformation"]
   },
   {
-    "id": blog20,
+    "id": "blog20",
     "title": "Sustainable Living: Embracing Green Technologies",
     "image": "green_technologies.jpg",
     "date": "2024-06-15",
-    "article": "In a world increasingly aware of environmental issues, the adoption of green technologies is crucial for sustainable living. This article discusses innovative technologies and practices that contribute to a more eco-friendly lifestyle, from renewable energy sources to waste reduction strategies.",
+    "article": "...",
     "category": "Environment",
-    "author": "Michael Johnson"
+    "author": "Michael Johnson",
+    "tags": ["sustainable living", "green technologies", "environment", "eco-friendly lifestyle", "renewable energy", "waste reduction"]
   }
 ]
