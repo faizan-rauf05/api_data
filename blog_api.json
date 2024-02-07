@@ -2,11 +2,12 @@
   {
     "id": "blog1",
     "title": "The Impact of 5G Technology on the Digital Landscape",
-    "image": "5g_impact.jpg",
+    "image": "https://i.ibb.co/d48vt0b/21239-min.jpg",
     "date": "2024-02-03",
     "article": "...",
     "category": "Technology",
     "author": "Alice Johnson",
+    "featured":true,
     "tags": [
       "#5GTechnology",
       "#DigitalTransformation",
@@ -18,11 +19,12 @@
   {
     "id": "blog2",
     "title": "Unlocking the Secrets of Quantum Computing",
-    "image": "quantum_computing.jpg",
+    "image": "https://i.ibb.co/cgLhKm0/quantum-computing.jpg",
     "date": "2024-02-10",
     "article": "...",
     "category": "Science",
     "author": "Bob Smith",
+    "featured":true,
     "tags": [
       "#QuantumComputing",
       "#FutureTechnology",
@@ -34,11 +36,12 @@
   {
     "id": "blog3",
     "title": "The Art of Data Visualization: Transforming Information into Insight",
-    "image": "data_visualization.jpg",
+    "image": "https://i.ibb.co/v3Ht3vL/data-visual.jpg",
     "date": "2024-02-17",
     "article": "...",
     "category": "Data Science",
     "author": "Elena Rodriguez",
+    "featured":true,
     "tags": [
       "#DataVisualization",
       "#Analytics",
@@ -50,10 +53,11 @@
   {
     "id": "blog4",
     "title": "Mindfulness in the Digital Age: Finding Balance in a Connected World",
-    "image": "mindfulness_digital_age.jpg",
+    "image": "https://i.ibb.co/K0j1sVG/meditation.jpg",
     "date": "2024-02-24",
     "article": "...",
     "category": "Health",
+    "featured":true,
     "author": "David Thompson",
     "tags": [
       "#Mindfulness",
@@ -66,11 +70,12 @@
   {
     "id": "blog5",
     "title": "Augmented Reality: Bridging the Gap Between Virtual and Real",
-    "image": "augmented_reality.jpg",
+    "image": "https://i.ibb.co/rwrLS3p/vr-min.jpg",
     "date": "2024-03-02",
     "article": "...",
     "category": "Technology",
     "author": "Sophie Brown",
+    "featured":true,
     "tags": [
       "#AugmentedReality",
       "#VirtualReality",
@@ -82,11 +87,12 @@
   {
     "id": "blog6",
     "title": "The Rise of E-Learning: Revolutionizing Education in the Digital Age",
-    "image": "elearning.jpg",
+    "image": "https://i.ibb.co/XSm8bd9/e-learning-min.jpg",
     "date": "2024-03-09",
     "article": "...",
     "category": "Education",
     "author": "James Miller",
+    "featured":true,
     "tags": [
       "#ELearning",
       "#DigitalEducation",
@@ -98,11 +104,12 @@
   {
     "id": "blog7",
     "title": "Biohacking: Enhancing Human Potential through Technology",
-    "image": "biohacking.jpg",
+    "image": "https://i.ibb.co/MfdCHDm/hacking-min-min.jpg",
     "date": "2024-03-16",
     "article": "...",
     "category": "Health",
     "author": "Emma White",
+    "featured":true,
     "tags": [
       "#Biohacking",
       "#HumanEnhancement",
@@ -114,27 +121,29 @@
   {
   "id": blog8,
   "title": "Cryptocurrency: Decoding the Future of Digital Finance",
-  "image": "cryptocurrency.jpg",
+  "image": "https://i.ibb.co/X3Tn66c/blockchain-min.jpg",
   "date": "2024-03-23",
   "article": "...",
   "category": "Finance",
   "author": "Alex Turner",
+    "featured":true,
   "tags": ["cryptocurrency", "finance", "digital", "future", "blockchain", "bitcoin", "ethereum"]
 },
 {
   "id": blog9,
   "title": "The Power of Generative Design in Architecture",
-  "image": "generative_design.jpg",
+  "image": "https://i.ibb.co/gr3Qh7K/multi-colored-paint-drops-splashing-abstract-background-generated-by-ai-min.jpg",
   "date": "2024-03-30",
   "article": "...",
   "category": "Architecture",
   "author": "Olivia Garcia",
+  "featured":true,
   "tags": ["architecture", "generative design", "artificial intelligence", "algorithms", "machine learning", "design process", "optimization", "sustainability", "aesthetics"]
 },
 {
   "id": blog10,
   "title": "Exploring the Marvels of Virtual Reality Entertainment",
-  "image": "virtual_reality.jpg",
+  "image": "https://i.ibb.co/rwrLS3p/vr-min.jpg",
   "date": "2024-04-06",
   "article": "...",
   "category": "Entertainment",
@@ -144,7 +153,7 @@
 {
   "id": blog11,
   "title": "Advancements in Biotechnology: Shaping the Future of Medicine",
-  "image": "biotechnology.jpg",
+  "image": "https://i.ibb.co/KzHkNyk/biotechnology-min.jpg",
   "date": "2024-04-13",
   "article": "...",
   "category": "Health",
@@ -154,7 +163,7 @@
 {
   "id": blog12,
   "title": "Smart Cities: Building the Urban Centers of Tomorrow",
-  "image": "smart_cities.jpg",
+  "image": "https://i.ibb.co/rbYqDNH/smart-city.jpg",
   "date": "2024-04-20",
   "article": "...",
   "category": "Technology",
@@ -164,7 +173,7 @@
 {
   "id": blog13,
   "title": "The Evolution of Social Media: From Connecting to Influencing",
-  "image": "social_media_evolution.jpg",
+  "image": "https://i.ibb.co/xfDBYzw/social-media.jpg",
   "date": "2024-04-27",
   "article": "...",
   "category": "Social Media",
@@ -174,7 +183,7 @@
 {
   "id": blog14,
   "title": "Space Tourism: Journeying Beyond Earth's Atmosphere",
-  "image": "space_tourism.jpg",
+  "image": "https://i.ibb.co/gjJksmG/space.jpg",
   "date": "2024-05-04",
   "article": "...",
   "category": "Science",
@@ -184,7 +193,7 @@
 {
   "id": blog15,
   "title": "Blockchain in Supply Chain: Transforming Transparency and Traceability",
-  "image": "blockchain_supply_chain.jpg",
+  "image": "https://i.ibb.co/MfdCHDm/hacking-min-min.jpg",
   "date": "2024-05-11",
   "article": "...",
   "category": "Technology",
@@ -194,7 +203,7 @@
   {
     "id": "blog16",
     "title": "The Intersection of Art and Technology: A Creative Revolution",
-    "image": "art_technology_intersection.jpg",
+    "image": "https://ibb.co/7SXBLzm",
     "date": "2024-05-18",
     "article": "...",
     "category": "Art",
@@ -204,7 +213,7 @@
   {
     "id": "blog17",
     "title": "Advancing Robotics: From Assembly Lines to Everyday Life",
-    "image": "advancing_robotics.jpg",
+    "image": "https://faizan-rauf2.imgbb.com",
     "date": "2024-05-25",
     "article": "...",
     "category": "Technology",
@@ -214,7 +223,7 @@
   {
     "id": "blog18",
     "title": "Green Energy Revolution: Harnessing the Power of Renewable Resources",
-    "image": "green_energy.jpg",
+    "image": "https://faizan-rauf2.imgbb.com",
     "date": "2024-06-01",
     "article": "...",
     "category": "Environment",
@@ -224,7 +233,7 @@
   {
     "id": "blog19",
     "title": "The Future of Work: Embracing Remote Collaboration",
-    "image": "future_of_work.jpg",
+    "image": "https://i.ibb.co/CbLQmz3/teamwork-min-min.jpg",
     "date": "2024-06-08",
     "article": "...",
     "category": "Business",
@@ -234,7 +243,7 @@
   {
     "id": "blog20",
     "title": "Sustainable Living: Embracing Green Technologies",
-    "image": "green_technologies.jpg",
+    "image": "https://faizan-rauf2.imgbb.com",
     "date": "2024-06-15",
     "article": "...",
     "category": "Environment",
