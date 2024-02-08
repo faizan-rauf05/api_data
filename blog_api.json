@@ -119,7 +119,7 @@
     ]
   },
   {
-  "id": blog8,
+  "id": "blog8",
   "title": "Cryptocurrency: Decoding the Future of Digital Finance",
   "image": "https://i.ibb.co/X3Tn66c/blockchain-min.jpg",
   "date": "2024-03-23",
@@ -130,7 +130,7 @@
   "tags": ["cryptocurrency", "finance", "digital", "future", "blockchain", "bitcoin", "ethereum"]
 },
 {
-  "id": blog9,
+  "id": "blog9",
   "title": "The Power of Generative Design in Architecture",
   "image": "https://i.ibb.co/gr3Qh7K/multi-colored-paint-drops-splashing-abstract-background-generated-by-ai-min.jpg",
   "date": "2024-03-30",
@@ -141,7 +141,7 @@
   "tags": ["architecture", "generative design", "artificial intelligence", "algorithms", "machine learning", "design process", "optimization", "sustainability", "aesthetics"]
 },
 {
-  "id": blog10,
+  "id": "blog10",
   "title": "Exploring the Marvels of Virtual Reality Entertainment",
   "image": "https://i.ibb.co/rwrLS3p/vr-min.jpg",
   "date": "2024-04-06",
@@ -151,7 +151,7 @@
   "tags": ["virtual reality", "VR", "entertainment", "gaming", "film", "immersive experiences", "storytelling", "user engagement", "interactive entertainment"]
 },
 {
-  "id": blog11,
+  "id": "blog11",
   "title": "Advancements in Biotechnology: Shaping the Future of Medicine",
   "image": "https://i.ibb.co/KzHkNyk/biotechnology-min.jpg",
   "date": "2024-04-13",
@@ -161,7 +161,7 @@
   "tags": ["biotechnology", "medicine", "healthcare", "gene editing", "personalized medicine", "future of medicine", "health breakthroughs"]
 },
 {
-  "id": blog12,
+  "id": "blog12",
   "title": "Smart Cities: Building the Urban Centers of Tomorrow",
   "image": "https://i.ibb.co/rbYqDNH/smart-city.jpg",
   "date": "2024-04-20",
@@ -171,7 +171,7 @@
   "tags": ["smart cities", "technology", "urban living", "infrastructure", "data-driven governance", "sustainability", "efficiency", "urban centers"]
 },
 {
-  "id": blog13,
+  "id":"blog13",
   "title": "The Evolution of Social Media: From Connecting to Influencing",
   "image": "https://i.ibb.co/xfDBYzw/social-media.jpg",
   "date": "2024-04-27",
@@ -181,7 +181,7 @@
   "tags": ["social media", "communication", "evolution", "trends", "public discourse", "culture", "influence", "connection"]
 },
 {
-  "id": blog14,
+  "id": "blog14",
   "title": "Space Tourism: Journeying Beyond Earth's Atmosphere",
   "image": "https://i.ibb.co/gjJksmG/space.jpg",
   "date": "2024-05-04",
@@ -191,7 +191,7 @@
   "tags": ["space tourism", "science", "travel", "earth", "space exploration", "commercial space travel", "companies", "technologies"]
 },
 {
-  "id": blog15,
+  "id": "blog15",
   "title": "Blockchain in Supply Chain: Transforming Transparency and Traceability",
   "image": "https://i.ibb.co/MfdCHDm/hacking-min-min.jpg",
   "date": "2024-05-11",
