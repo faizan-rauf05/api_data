@@ -127,7 +127,7 @@
   "category": "Finance",
   "author": "Alex Turner",
     "featured":true,
-  "tags": ["cryptocurrency", "finance", "digital", "future", "blockchain", "bitcoin", "ethereum"]
+  "tags": ["#cryptocurrency", "#finance", "#digital", "#future", "#blockchain"]
 },
 {
   "id": "blog9",
@@ -138,7 +138,7 @@
   "category": "Architecture",
   "author": "Olivia Garcia",
   "featured":true,
-  "tags": ["architecture", "generative design", "artificial intelligence", "algorithms", "machine learning", "design process", "optimization", "sustainability", "aesthetics"]
+  "tags": ["#architecture", "#generative design", "#artificial intelligence", "#algorithms", "#machine learning"]
 },
 {
   "id": "blog10",
@@ -148,7 +148,7 @@
   "article": "Step aside, flat screens. Virtual reality (VR) entertainment is here, shattering the boundaries of traditional immersion and catapulting you into the heart of the action. Imagine soaring through fantastical landscapes, battling mythical creatures, or even exploring the depths of the ocean – all from the comfort of your living room. VR isn't just science fiction anymore; it's a rapidly evolving playground where entertainment reaches new heights.",
   "category": "Entertainment",
   "author": "Daniel Clark",
-  "tags": ["virtual reality", "VR", "entertainment", "gaming", "film", "immersive experiences", "storytelling", "user engagement", "interactive entertainment"]
+  "tags": ["#virtual reality", "#VR", "#entertainment", "#gaming", "#film"]
 },
 {
   "id": "blog11",
@@ -158,7 +158,7 @@
   "article": "...",
   "category": "Health",
   "author": "Grace Johnson",
-  "tags": ["biotechnology", "medicine", "healthcare", "gene editing", "personalized medicine", "future of medicine", "health breakthroughs"]
+  "tags": ["#biotechnology", "#medicine", "#healthcare", "#gene editing", "#personalized medicine"]
 },
 {
   "id": "blog12",
@@ -168,7 +168,7 @@
   "article": "Imagine a city that breathes intelligence, where traffic lights sync with your commute, waste bins whisper their fullness, and parks adapt to your mood. This isn't science fiction, but the burgeoning reality of smart cities - urban landscapes woven with technology to enhance efficiency, sustainability, and resident well-being.",
   "category": "Technology",
   "author": "Matthew Taylor",
-  "tags": ["smart cities", "technology", "urban living", "infrastructure", "data-driven governance", "sustainability", "efficiency", "urban centers"]
+  "tags": ["#smart cities", "#technology", "#urban living", "#infrastructure", "#data-driven governance"]
 },
 {
   "id":"blog13",
@@ -178,7 +178,7 @@
   "article": "Social media has woven itself into the fabric of our daily lives, offering a tapestry of connection, information, and entertainment. From keeping in touch with loved ones to fueling global movements, its impact is undeniable. But like any powerful tool, its potential for good is matched by potential pitfalls.",
   "category": "Social Media",
   "author": "Sophia Robinson",
-  "tags": ["social media", "communication", "evolution", "trends", "public discourse", "culture", "influence", "connection"]
+  "tags": ["#social media", "#communication", "#evolution", "#trends", "#public discourse"]
 },
 {
   "id": "blog14",
@@ -188,7 +188,7 @@
   "article": "Space tourism, once a realm of science fiction, is rapidly becoming a reality. This exciting industry allows individuals to experience the thrill of spaceflight, witnessing the Earth's curvature and the vastness of the cosmos firsthand. But what exactly is it, and where is it headed",
   "category": "Science",
   "author": "William Turner",
-  "tags": ["space tourism", "science", "travel", "earth", "space exploration", "commercial space travel", "companies", "technologies"]
+  "tags": ["#space tourism", "#science", "#travel", "#earth", "#space exploration"]
 },
 {
   "id": "blog15",
@@ -198,7 +198,7 @@
   "article": "At its core, blockchain is a distributed ledger, meaning data is stored across multiple computers in a network, not a single server. This decentralization empowers participants with transparency and security. Each piece of information, called a block, is chronologically linked and cryptographically secured, making tampering nearly impossible.",
   "category": "Technology",
   "author": "Laura Davis",
-  "tags": ["blockchain", "technology", "supply chain", "transparency", "traceability", "logistics", "manufacturing", "accountability", "fraud reduction"]
+  "tags": ["#blockchain", "#technology", "#supply chain", "#transparency", "#traceability"]
 },
   {
     "id": "blog16",
@@ -208,7 +208,7 @@
     "article": "...",
     "category": "Art",
     "author": "Chris Harrison",
-    "tags": ["art", "technology", "creativity", "innovation", "artistic expression", "virtual reality", "AI", "immersive experiences"]
+    "tags": ["#art", "#technology", "#creativity", "#innovation", "#artistic expression"]
   },
   {
     "id": "blog17",
@@ -218,7 +218,7 @@
     "article": "Robots, once relegated to the realm of science fiction, are now firmly entrenched in our reality. This field of engineering and computer science encompasses the design, construction, operation, and use of robots, machines that can replicate or substitute for human actions.",
     "category": "Technology",
     "author": "Megan Carter",
-    "tags": ["robotics", "technology", "automation", "collaboration", "healthcare", "personal assistance", "manufacturing", "assembly lines"]
+    "tags": ["#robotics", "#technology", "#automation", "#collaboration", "#healthcare"]
   },
   {
     "id": "blog18",
@@ -228,7 +228,7 @@
     "article": "The world is in the midst of a momentous transformation – the Green Energy Revolution. This shift away from fossil fuels towards renewable energy sources like solar, wind, and geothermal promises a cleaner, more sustainable future. But what exactly is driving this revolution, and what impact is it having",
     "category": "Environment",
     "author": "Ryan Martinez",
-    "tags": ["green energy", "renewable energy", "environment", "climate change", "sustainability", "solar power", "wind power", "energy consumption"]
+    "tags": ["#green energy", "#renewable energy", "#environment", "#climate change", "#sustainability"]
   },
   {
     "id": "blog19",
@@ -243,11 +243,11 @@
   {
     "id": "blog20",
     "title": "Sustainable Living: Embracing Green Technologies",
-    "image": "https://faizan-rauf2.imgbb.com",
+    "image": "https://i.ibb.co/zHwY8fY/biotechnology-min.jpg",
     "date": "2024-06-15",
     "article": "The world is in the midst of a momentous transformation – the Green Energy Revolution. This shift away from fossil fuels towards renewable energy sources like solar, wind, and geothermal promises a cleaner, more sustainable future. But what exactly is driving this revolution, and what impact is it having?",
     "category": "Environment",
     "author": "Michael Johnson",
-    "tags": ["sustainable living", "green technologies", "environment", "eco-friendly lifestyle", "renewable energy", "waste reduction"]
+    "tags": ["#sustainable living", "#green technologies", "#environment", "#eco-friendly lifestyle", "#renewable energy"]
   }
 ]
