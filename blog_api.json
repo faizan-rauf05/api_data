@@ -51,22 +51,22 @@
     ]
   },
   {
-    "id": "blog4",
-    "title": "Mindfulness in the Digital Age: Finding Balance in a Connected World",
-    "image": "https://i.ibb.co/K0j1sVG/meditation.jpg",
-    "date": "2024-02-24",
-    "article": "Data surrounds us, but raw numbers seldom ignite our imaginations. This is where the art of data visualization steps in, transforming cold statistics into captivating stories that resonate with our visual nature. It's a dance between science and creativity, where information sheds its rigidity and transforms into meaningful insights.",
-    "category": "Health",
-    "featured":true,
-    "author": "David Thompson",
-    "tags": [
-      "#Mindfulness",
-      "#DigitalWellness",
-      "#StressManagement",
-      "#Wellbeing",
-      "#BalancedLiving"
-    ]
-  },
+  "id": "blog4",
+  "title": "Mindfulness in the Digital Age: Finding Balance in a Connected World",
+  "image": "https://i.ibb.co/K0j1sVG/meditation.jpg",
+  "date": "2024-02-24",
+  "article": "Data surrounds us, but raw numbers seldom ignite our imaginations. This is where the art of data visualization steps in, transforming cold statistics into captivating stories that resonate with our visual nature. It's a dance between science and creativity, where information sheds its rigidity and transforms into meaningful insights.",
+  "category": "Health",
+  "author": "David Thompson",
+  "featured": true,
+  "tags": [
+    "#Mindfulness",
+    "#DigitalWellness",
+    "#StressManagement",
+    "#Wellbeing",
+    "#BalancedLiving"
+  ]
+},
   {
     "id": "blog5",
     "title": "Augmented Reality: Bridging the Gap Between Virtual and Real",
