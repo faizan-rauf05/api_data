@@ -221,6 +221,16 @@
     "tags": ["#robotics", "#technology", "#automation", "#collaboration", "#healthcare"]
   },
   {
+    "id": "blog18",
+    "title": "Green Energy Revolution: Harnessing the Power of Renewable Resources",
+    "image": "https://i.ibb.co/4pXCmnZ/biotechnology.jpg",
+    "date": "2024-06-01",
+    "article": "The world is in the midst of a momentous transformation – the Green Energy Revolution. This shift away from fossil fuels towards renewable energy sources like solar, wind, and geothermal promises a cleaner, more sustainable future. But what exactly is driving this revolution, and what impact is it having",
+    "category": "Environment",
+    "author": "Ryan Martinez",
+    "tags": ["#green energy", "#renewable energy", "#environment", "#climate change", "#sustainability"]
+  },
+  {
     "id": "blog19",
     "title": "The Future of Work: Embracing Remote Collaboration",
     "image": "https://i.ibb.co/rsXshFL/teamwork-min-min.jpg",
@@ -230,4 +240,14 @@
     "author": "Jessica Adams",
     "tags": ["future of work", "remote work", "collaboration", "technology", "communication", "business", "workplace transformation"]
   },
+  {
+    "id": "blog20",
+    "title": "Sustainable Living: Embracing Green Technologies",
+    "image": "https://i.ibb.co/4pXCmnZ/biotechnology.jpg",
+    "date": "2024-06-15",
+    "article": "The world is in the midst of a momentous transformation – the Green Energy Revolution. This shift away from fossil fuels towards renewable energy sources like solar, wind, and geothermal promises a cleaner, more sustainable future. But what exactly is driving this revolution, and what impact is it having?",
+    "category": "Environment",
+    "author": "Michael Johnson",
+    "tags": ["#sustainable living", "#green technologies", "#environment", "#eco-friendly lifestyle", "#renewable energy"]
+  }
 ]
