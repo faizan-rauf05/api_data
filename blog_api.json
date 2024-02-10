@@ -2,7 +2,7 @@
   {
     "id": "blog1",
     "title": "The Impact of 5G Technology on the Digital Landscape",
-    "image": "https://i.ibb.co/d48vt0b/21239-min.jpg",
+    "image": "https://i.ibb.co/gRvvLFg/21239-min.jpg",
     "date": "2024-02-03",
     "article": "In the ever-evolving digital landscape, the emergence of 5G technology stands as a milestone that promises to reshape the way we interact with the world around us. This introduction sets the stage for exploring the multifaceted impact of 5G on various aspects of our lives.",
     "category": "Technology",
@@ -19,7 +19,7 @@
   {
     "id": "blog2",
     "title": "Unlocking the Secrets of Quantum Computing",
-    "image": "https://i.ibb.co/cgLhKm0/quantum-computing.jpg",
+    "image": "https://i.ibb.co/kccFt4q/vr-min.jpg",
     "date": "2024-02-10",
     "article": "Imagine a computer that can solve problems in minutes that would take traditional machines millions of years. This isn't science fiction; it's the promise of quantum computing, a revolutionary technology poised to transform entire industries. But how does it work, and what secrets are waiting to be unlocked",
     "category": "Science",
@@ -36,7 +36,7 @@
   {
     "id": "blog3",
     "title": "The Art of Data Visualization: Transforming Information into Insight",
-    "image": "https://i.ibb.co/v3Ht3vL/data-visual.jpg",
+    "image": "https://i.ibb.co/xjGsXKw/data-visual.jpg",
     "date": "2024-02-17",
     "article": "Data surrounds us, but raw numbers seldom ignite our imaginations. This is where the art of data visualization steps in, transforming cold statistics into captivating stories that resonate with our visual nature. It's a dance between science and creativity, where information sheds its rigidity and transforms into meaningful insights.",
     "category": "Data Science",
@@ -53,7 +53,7 @@
   {
   "id": "blog4",
   "title": "Mindfulness in the Digital Age: Finding Balance in a Connected World",
-  "image": "https://i.ibb.co/K0j1sVG/meditation.jpg",
+  "image": "https://i.ibb.co/Sc91Y4R/smart-city.jpg",
   "date": "2024-02-24",
   "article": "Data surrounds us, but raw numbers seldom ignite our imaginations. This is where the art of data visualization steps in, transforming cold statistics into captivating stories that resonate with our visual nature. It's a dance between science and creativity, where information sheds its rigidity and transforms into meaningful insights.",
   "category": "Health",
@@ -70,7 +70,7 @@
   {
     "id": "blog5",
     "title": "Augmented Reality: Bridging the Gap Between Virtual and Real",
-    "image": "https://i.ibb.co/rwrLS3p/vr-min.jpg",
+    "image": "https://i.ibb.co/KyyHJ2V/vr-min.jpg",
     "date": "2024-03-02",
     "article": "Imagine a world where dinosaurs roam your living room, historical figures whisper secrets in museums, and furniture magically appears in your space before you buy it. This isn't science fiction; it's the exciting realm of Augmented Reality (AR). AR seamlessly blends the physical and digital, enriching our perception with computer-generated elements.",
     "category": "Technology",
@@ -87,7 +87,7 @@
   {
     "id": "blog6",
     "title": "The Rise of E-Learning: Revolutionizing Education in the Digital Age",
-    "image": "https://i.ibb.co/XSm8bd9/e-learning-min.jpg",
+    "image": "https://ibb.co/PmwKhM0",
     "date": "2024-03-09",
     "article": "The way we learn is undergoing a metamorphosis, driven by the inexorable rise of e-learning. This shift, fueled by technology and a yearning for accessible, personalized education, is transforming classrooms into virtual worlds brimming with possibilities.",
     "category": "Education",
@@ -104,7 +104,7 @@
   {
     "id": "blog7",
     "title": "Biohacking: Enhancing Human Potential through Technology",
-    "image": "https://i.ibb.co/MfdCHDm/hacking-min-min.jpg",
+    "image": "https://i.ibb.co/0y6rNZ9/ai-min.jpg",
     "date": "2024-03-16",
     "article": "Biohacking, the self-proclaimed art of hacking your biology, is all about making personalized adjustments to enhance your health, well-being, and even unlock hidden potential. From sleep trackers to cold showers, meditation to nootropics, biohacking encompasses a vast spectrum of approaches.",
     "category": "Health",
@@ -121,7 +121,7 @@
   {
   "id": "blog8",
   "title": "Cryptocurrency: Decoding the Future of Digital Finance",
-  "image": "https://i.ibb.co/X3Tn66c/blockchain-min.jpg",
+  "image": "https://i.ibb.co/XbhHCRR/blockchain-min.jpg",
   "date": "2024-03-23",
   "article": "Imagine a digital currency, independent of banks or governments, secured by complex cryptography. Transactions are recorded on a shared public ledger called a blockchain, ensuring transparency and security. This is the essence of cryptocurrency. Bitcoin, the first and most well-known crypto, paved the way for thousands of others, each with unique features and purposes.",
   "category": "Finance",
@@ -132,7 +132,7 @@
 {
   "id": "blog9",
   "title": "The Power of Generative Design in Architecture",
-  "image": "https://i.ibb.co/gr3Qh7K/multi-colored-paint-drops-splashing-abstract-background-generated-by-ai-min.jpg",
+  "image": "https://i.ibb.co/SfNsnMx/multi-colored-paint-drops-splashing-abstract-background-generated-by-ai-min.jpg",
   "date": "2024-03-30",
   "article": "...",
   "category": "Architecture",
@@ -143,7 +143,7 @@
 {
   "id": "blog10",
   "title": "Exploring the Marvels of Virtual Reality Entertainment",
-  "image": "https://i.ibb.co/rwrLS3p/vr-min.jpg",
+  "image": "https://i.ibb.co/kccFt4q/vr-min.jpg",
   "date": "2024-04-06",
   "article": "Step aside, flat screens. Virtual reality (VR) entertainment is here, shattering the boundaries of traditional immersion and catapulting you into the heart of the action. Imagine soaring through fantastical landscapes, battling mythical creatures, or even exploring the depths of the ocean – all from the comfort of your living room. VR isn't just science fiction anymore; it's a rapidly evolving playground where entertainment reaches new heights.",
   "category": "Entertainment",
@@ -153,7 +153,7 @@
 {
   "id": "blog11",
   "title": "Advancements in Biotechnology: Shaping the Future of Medicine",
-  "image": "https://i.ibb.co/KzHkNyk/biotechnology-min.jpg",
+  "image": "https://i.ibb.co/VD1Dd3T/biotechnology-min.jpg",
   "date": "2024-04-13",
   "article": "...",
   "category": "Health",
@@ -163,7 +163,7 @@
 {
   "id": "blog12",
   "title": "Smart Cities: Building the Urban Centers of Tomorrow",
-  "image": "https://i.ibb.co/rbYqDNH/smart-city.jpg",
+  "image": "https://i.ibb.co/Sc91Y4R/smart-city.jpg",
   "date": "2024-04-20",
   "article": "Imagine a city that breathes intelligence, where traffic lights sync with your commute, waste bins whisper their fullness, and parks adapt to your mood. This isn't science fiction, but the burgeoning reality of smart cities - urban landscapes woven with technology to enhance efficiency, sustainability, and resident well-being.",
   "category": "Technology",
@@ -173,7 +173,7 @@
 {
   "id":"blog13",
   "title": "The Evolution of Social Media: From Connecting to Influencing",
-  "image": "https://i.ibb.co/xfDBYzw/social-media.jpg",
+  "image": "https://i.ibb.co/BC9yLcS/social-media.jpg",
   "date": "2024-04-27",
   "article": "Social media has woven itself into the fabric of our daily lives, offering a tapestry of connection, information, and entertainment. From keeping in touch with loved ones to fueling global movements, its impact is undeniable. But like any powerful tool, its potential for good is matched by potential pitfalls.",
   "category": "Social Media",
@@ -183,7 +183,7 @@
 {
   "id": "blog14",
   "title": "Space Tourism: Journeying Beyond Earth's Atmosphere",
-  "image": "https://i.ibb.co/gjJksmG/space.jpg",
+  "image": "https://i.ibb.co/hVQXnrq/space.jpg",
   "date": "2024-05-04",
   "article": "Space tourism, once a realm of science fiction, is rapidly becoming a reality. This exciting industry allows individuals to experience the thrill of spaceflight, witnessing the Earth's curvature and the vastness of the cosmos firsthand. But what exactly is it, and where is it headed",
   "category": "Science",
@@ -193,7 +193,7 @@
 {
   "id": "blog15",
   "title": "Blockchain in Supply Chain: Transforming Transparency and Traceability",
-  "image": "https://i.ibb.co/MfdCHDm/hacking-min-min.jpg",
+  "image": "https://i.ibb.co/XbhHCRR/blockchain-min.jpg",
   "date": "2024-05-11",
   "article": "At its core, blockchain is a distributed ledger, meaning data is stored across multiple computers in a network, not a single server. This decentralization empowers participants with transparency and security. Each piece of information, called a block, is chronologically linked and cryptographically secured, making tampering nearly impossible.",
   "category": "Technology",
@@ -203,7 +203,7 @@
   {
     "id": "blog16",
     "title": "The Intersection of Art and Technology: A Creative Revolution",
-    "image": "https://ibb.co/7SXBLzm",
+    "image": "https://i.ibb.co/mNJDq2B/multi-colored-paint-drops-splashing-abstract-background-generated-by-ai-min.jpg",
     "date": "2024-05-18",
     "article": "...",
     "category": "Art",
@@ -213,7 +213,7 @@
   {
     "id": "blog17",
     "title": "Advancing Robotics: From Assembly Lines to Everyday Life",
-    "image": "https://faizan-rauf2.imgbb.com",
+    "image": "https://i.ibb.co/kccFt4q/vr-min.jpg",
     "date": "2024-05-25",
     "article": "Robots, once relegated to the realm of science fiction, are now firmly entrenched in our reality. This field of engineering and computer science encompasses the design, construction, operation, and use of robots, machines that can replicate or substitute for human actions.",
     "category": "Technology",
@@ -223,7 +223,7 @@
   {
     "id": "blog18",
     "title": "Green Energy Revolution: Harnessing the Power of Renewable Resources",
-    "image": "https://faizan-rauf2.imgbb.com",
+    "image": "https://i.ibb.co/ZKjK3Nx/biotechnology-min.jpg",
     "date": "2024-06-01",
     "article": "The world is in the midst of a momentous transformation – the Green Energy Revolution. This shift away from fossil fuels towards renewable energy sources like solar, wind, and geothermal promises a cleaner, more sustainable future. But what exactly is driving this revolution, and what impact is it having",
     "category": "Environment",
@@ -233,7 +233,7 @@
   {
     "id": "blog19",
     "title": "The Future of Work: Embracing Remote Collaboration",
-    "image": "https://i.ibb.co/CbLQmz3/teamwork-min-min.jpg",
+    "image": "https://i.ibb.co/rQpjJqQ/teamwork-min-min.jpg",
     "date": "2024-06-08",
     "article": "The world is in the midst of a momentous transformation – the Green Energy Revolution. This shift away from fossil fuels towards renewable energy sources like solar, wind, and geothermal promises a cleaner, more sustainable future. But what exactly is driving this revolution, and what impact is it having",
     "category": "Business",
@@ -242,7 +242,7 @@
   },
   {
     "id": "blog20",
-    "title": "Sustainable Living: Embracing Green Technologies",
+    "title": "https://i.ibb.co/0y6rNZ9/ai-min.jpg",
     "image": "https://i.ibb.co/zHwY8fY/biotechnology-min.jpg",
     "date": "2024-06-15",
     "article": "The world is in the midst of a momentous transformation – the Green Energy Revolution. This shift away from fossil fuels towards renewable energy sources like solar, wind, and geothermal promises a cleaner, more sustainable future. But what exactly is driving this revolution, and what impact is it having?",
