@@ -3,7 +3,7 @@
         "id":"prod1",
         "name":"HAVIT HV-G92 Gamepad",
         "price":120,
-        "category":"gaming",
+        "category":"gamepad",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -12,13 +12,13 @@
         "colors":["#FF8080","#CDFADB"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX93sIa.png","https://iili.io/JX93sIa.png","https://iili.io/JX93sIa.png","https://iili.io/JX93sIa.png","https://iili.io/JX93sIa.png"]
+        "images":["https://i.ibb.co/6Rp5gP5/51qbc-Wz-HSML-AC-SX569.jpg","https://i.ibb.co/6Rp5gP5/51qbc-Wz-HSML-AC-SX569.jpg","https://i.ibb.co/6Rp5gP5/51qbc-Wz-HSML-AC-SX569.jpg","https://i.ibb.co/6Rp5gP5/51qbc-Wz-HSML-AC-SX569.jpg","https://i.ibb.co/6Rp5gP5/51qbc-Wz-HSML-AC-SX569.jpg"]
     },
     {
         "id":"prod2",
         "name":"AK-900 Wired Keyboard",
         "price":960,
-        "category":"gaming",
+        "category":"keyboard",
         "rating":4,
         "reviews":75,
         "off":"-30%",
@@ -27,13 +27,13 @@
         "colors":["#FFAD33","#000000"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX93471.png","https://iili.io/JX93471.png","https://iili.io/JX93471.png","https://iili.io/JX93471.png","https://iili.io/JX93471.png"]
+        "images":["https://i.ibb.co/R0fLWxN/71-DYl-RN51t-L-AC-SX300-SY300-QL70-FMwebp.webp","https://i.ibb.co/R0fLWxN/71-DYl-RN51t-L-AC-SX300-SY300-QL70-FMwebp.webp","https://i.ibb.co/R0fLWxN/71-DYl-RN51t-L-AC-SX300-SY300-QL70-FMwebp.webp","https://i.ibb.co/R0fLWxN/71-DYl-RN51t-L-AC-SX300-SY300-QL70-FMwebp.webp","https://i.ibb.co/R0fLWxN/71-DYl-RN51t-L-AC-SX300-SY300-QL70-FMwebp.webp"]
     },
     {
         "id":"prod3",
-        "name":"AK-900 Wired Keyboard",
+        "name":"Acer Nitro Curved Full HD Monitor",
         "price":960,
-        "category":"gaming",
+        "category":"monitor",
         "rating":4,
         "reviews":75,
         "off":"-30%",
@@ -42,13 +42,13 @@
         "colors":["#FFAD33","#000000"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX93471.png","https://iili.io/JX93471.png","https://iili.io/JX93471.png","https://iili.io/JX93471.png","https://iili.io/JX93471.png"]
+        "images":["https://i.ibb.co/j8SsHCN/Acer-Nitro-Curved-Full-HD.webp","https://i.ibb.co/j8SsHCN/Acer-Nitro-Curved-Full-HD.webp","https://i.ibb.co/j8SsHCN/Acer-Nitro-Curved-Full-HD.webp","https://i.ibb.co/j8SsHCN/Acer-Nitro-Curved-Full-HD.webp","https://i.ibb.co/j8SsHCN/Acer-Nitro-Curved-Full-HD.webp"]
     },
     {
         "id":"prod4",
-        "name":"AK-900 Wired Keyboard",
+        "name":"ASUS ROG Sheath Extended Gaming MousePad",
         "price":960,
-        "category":"gaming",
+        "category":"mousepad",
         "rating":4,
         "reviews":75,
         "off":"-30%",
@@ -57,13 +57,13 @@
         "colors":["#FFAD33","#000000"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX93471.png","https://iili.io/JX93471.png","https://iili.io/JX93471.png","https://iili.io/JX93471.png","https://iili.io/JX93471.png"]
+        "images":["https://i.ibb.co/Ltn0Dxs/ASUS-ROG-Sheath-Extended-Gaming-Mouse-Pad.jpg","https://i.ibb.co/Ltn0Dxs/ASUS-ROG-Sheath-Extended-Gaming-Mouse-Pad.jpg","https://i.ibb.co/Ltn0Dxs/ASUS-ROG-Sheath-Extended-Gaming-Mouse-Pad.jpg","https://i.ibb.co/Ltn0Dxs/ASUS-ROG-Sheath-Extended-Gaming-Mouse-Pad.jpg","https://i.ibb.co/Ltn0Dxs/ASUS-ROG-Sheath-Extended-Gaming-Mouse-Pad.jpg"]
     },
     {
         "id":"prod5",
-        "name":"AK-900 Wired Keyboard",
+        "name":"ASUS-TUF-Gaming-Curved-Monitor",
         "price":960,
-        "category":"gaming",
+        "category":"monitor",
         "rating":4,
         "reviews":75,
         "off":"-30%",
@@ -72,13 +72,13 @@
         "colors":["#FFAD33","#000000"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX93471.png","https://iili.io/JX93471.png","https://iili.io/JX93471.png","https://iili.io/JX93471.png","https://iili.io/JX93471.png"]
+        "images":["https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp","https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp","https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp","https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp","https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"]
     },
     {
         "id":"prod6",
-        "name":"IPS LCD Gaming Monitor",
+        "name":"CORSAIR-HS80-RGB-WIRELESS-Multiplatform-Gaming-Headset",
         "price":370,
-        "category":"gaming",
+        "category":"headphone",
         "rating":5,
         "reviews":99,
         "off":"-30%",
@@ -87,13 +87,13 @@
         "colors":["#184A48","#FEC7B4"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX936kF.png","https://iili.io/JX936kF.png","https://iili.io/JX936kF.png","https://iili.io/JX936kF.png","https://iili.io/JX936kF.png"]
+        "images":["https://i.ibb.co/ZSBFqPT/CORSAIR-HS80-RGB-WIRELESS-Multiplatform-Gaming-Headset.webp","https://i.ibb.co/ZSBFqPT/CORSAIR-HS80-RGB-WIRELESS-Multiplatform-Gaming-Headset.webp","https://i.ibb.co/ZSBFqPT/CORSAIR-HS80-RGB-WIRELESS-Multiplatform-Gaming-Headset.webp","https://i.ibb.co/ZSBFqPT/CORSAIR-HS80-RGB-WIRELESS-Multiplatform-Gaming-Headset.webp","https://i.ibb.co/ZSBFqPT/CORSAIR-HS80-RGB-WIRELESS-Multiplatform-Gaming-Headset.webp"]
     },
     {
         "id":"prod7",
-        "name":"S-Series Comfort Chair",
+        "name":"Corsair-TC100-Relaxed-Gaming-Chair",
         "price":150,
-        "category":"gaming",
+        "category":"chair",
         "rating":4.5,
         "reviews":20,
         "off":"-10%",
@@ -102,13 +102,13 @@
         "colors":["#FC819E","#F7418F"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX9Fq42.png","https://iili.io/JX9Fq42.png","https://iili.io/JX9Fq42.png","https://iili.io/JX9Fq42.png","https://iili.io/JX9Fq42.png"]
+        "images":["https://i.ibb.co/nz9Rk5t/Corsair-TC100-Relaxed-Gaming-Chair.webp","https://i.ibb.co/nz9Rk5t/Corsair-TC100-Relaxed-Gaming-Chair.webp","https://i.ibb.co/nz9Rk5t/Corsair-TC100-Relaxed-Gaming-Chair.webp","https://i.ibb.co/nz9Rk5t/Corsair-TC100-Relaxed-Gaming-Chair.webp","https://i.ibb.co/nz9Rk5t/Corsair-TC100-Relaxed-Gaming-Chair.webp"]
     },
     {
         "id":"prod8",
-        "name":"The north coat",
+        "name":"Eliminator-Ergonomic-Adjustable-High-Back-Gaming-Chair",
         "price":170,
-        "category":"clothes",
+        "category":"chair",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -117,13 +117,13 @@
         "colors":["#B0C5A4","#EBC49F"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX9FfEl.png","https://iili.io/JX9FfEl.png","https://iili.io/JX9FfEl.png","https://iili.io/JX9FfEl.png","https://iili.io/JX9FfEl.png"]
+        "images":["https://i.ibb.co/sPMWnwH/Eliminator-Ergonomic-Adjustable-High-Back-Gaming-Chair.webp","https://i.ibb.co/sPMWnwH/Eliminator-Ergonomic-Adjustable-High-Back-Gaming-Chair.webp","https://i.ibb.co/sPMWnwH/Eliminator-Ergonomic-Adjustable-High-Back-Gaming-Chair.webp","https://i.ibb.co/sPMWnwH/Eliminator-Ergonomic-Adjustable-High-Back-Gaming-Chair.webp","https://i.ibb.co/sPMWnwH/Eliminator-Ergonomic-Adjustable-High-Back-Gaming-Chair.webp"]
     },
     {
         "id":"prod9",
-        "name":"Gucci duffle bag",
+        "name":"JBL-Quantum-910-X-Wireless-Gaming-Headset",
         "price":1000,
-        "category":"pet",
+        "category":"headphone",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -132,13 +132,13 @@
         "colors":["#430A5D","#8C6A5D"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX9FKB4.png","https://iili.io/JX9FKB4.png","https://iili.io/JX9FKB4.png","https://iili.io/JX9FKB4.png","https://iili.io/JX9FKB4.png"]
+        "images":["https://i.ibb.co/fHPkdcZ/JBL-Quantum-910-X-Wireless-Gaming-Headset.webp","https://i.ibb.co/fHPkdcZ/JBL-Quantum-910-X-Wireless-Gaming-Headset.webp","https://i.ibb.co/fHPkdcZ/JBL-Quantum-910-X-Wireless-Gaming-Headset.webp","https://i.ibb.co/fHPkdcZ/JBL-Quantum-910-X-Wireless-Gaming-Headset.webp","https://i.ibb.co/fHPkdcZ/JBL-Quantum-910-X-Wireless-Gaming-Headset.webp"]
     },
     {
         "id":"prod10",
-        "name":"RGB liquid CPU Cooler",
+        "name":"Ryzen Gaming keyboard",
         "price":340,
-        "category":"gaming",
+        "category":"keyboard",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -147,13 +147,13 @@
         "colors":["#FF8080","#CDFADB"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX9F3Qf.png","https://iili.io/JX9F3Qf.png","https://iili.io/JX9F3Qf.png","https://iili.io/JX9F3Qf.png","https://iili.io/JX9F3Qf.png"]
+        "images":["https://i.ibb.co/n0Vd8sv/keyboard.webp","https://i.ibb.co/n0Vd8sv/keyboard.webp","https://i.ibb.co/n0Vd8sv/keyboard.webp","https://i.ibb.co/n0Vd8sv/keyboard.webp","https://i.ibb.co/n0Vd8sv/keyboard.webp"]
     },
     {
         "id":"prod11",
-        "name":"Small BookSelf",
+        "name":"Redragon One-Handed RGB Mechanical Gaming Keyboard",
         "price":280,
-        "category":"furniture",
+        "category":"keyboard",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -162,13 +162,13 @@
         "colors":["#222831","#31363F"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX9FdIs.png","https://iili.io/JX9FdIs.png","https://iili.io/JX9FdIs.png","https://iili.io/JX9FdIs.png","https://iili.io/JX9FdIs.png"]
+        "images":["https://i.ibb.co/QcKVbKn/keyboard1.webp","https://i.ibb.co/QcKVbKn/keyboard1.webp","https://i.ibb.co/QcKVbKn/keyboard1.webp","https://i.ibb.co/QcKVbKn/keyboard1.webp","https://i.ibb.co/QcKVbKn/keyboard1.webp"]
     },
     {
         "id":"prod12",
-        "name":"Small BookSelf",
+        "name":"HyperX Alloy Origins Core Gaming Keyboard",
         "price":280,
-        "category":"furniture",
+        "category":"keyboard",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -177,13 +177,13 @@
         "colors":["#222831","#31363F"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX9FdIs.png","https://iili.io/JX9FdIs.png","https://iili.io/JX9FdIs.png","https://iili.io/JX9FdIs.png","https://iili.io/JX9FdIs.png"]
+        "images":["https://i.ibb.co/Gd8BjKn/keyboard2.webp","https://i.ibb.co/Gd8BjKn/keyboard2.webp","https://i.ibb.co/Gd8BjKn/keyboard2.webp","https://i.ibb.co/Gd8BjKn/keyboard2.webp","https://i.ibb.co/Gd8BjKn/keyboard2.webp"]
     },
     {
         "id":"prod13",
-        "name":"Small BookSelf",
+        "name":"Lenovo-Legion-Gaming-Laptop Bag",
         "price":280,
-        "category":"furniture",
+        "category":"bags",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -192,13 +192,13 @@
         "colors":["#222831","#31363F"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX9FdIs.png","https://iili.io/JX9FdIs.png","https://iili.io/JX9FdIs.png","https://iili.io/JX9FdIs.png","https://iili.io/JX9FdIs.png"]
+        "images":["https://i.ibb.co/wddsbpx/Lenovo-Legion-Gaming-Laptop-Bag.webp","https://i.ibb.co/wddsbpx/Lenovo-Legion-Gaming-Laptop-Bag.webp","https://i.ibb.co/wddsbpx/Lenovo-Legion-Gaming-Laptop-Bag.webp","https://i.ibb.co/wddsbpx/Lenovo-Legion-Gaming-Laptop-Bag.webp","https://i.ibb.co/wddsbpx/Lenovo-Legion-Gaming-Laptop-Bag.webp"]
     },
     {
         "id":"prod14",
-        "name":"Breed Dry Dog Food",
+        "name":"Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse",
         "price":260,
-        "category":"pet",
+        "category":"mouse",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -207,13 +207,13 @@
         "colors":["#76ABAE","#EEEEEE"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png"]
+        "images":["https://i.ibb.co/G5FqsKP/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse.webp","https://i.ibb.co/G5FqsKP/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse.webp","https://i.ibb.co/G5FqsKP/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse.webp","https://i.ibb.co/G5FqsKP/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse.webp","https://i.ibb.co/G5FqsKP/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse.webp"]
     },
     {
         "id":"prod15",
-        "name":"Breed Dry Dog Food",
+        "name":"Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse",
         "price":260,
-        "category":"pet",
+        "category":"mouse",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -222,13 +222,13 @@
         "colors":["#76ABAE","#EEEEEE"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png"]
+        "images":["https://i.ibb.co/G5FqsKP/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse.webp","https://i.ibb.co/G5FqsKP/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse.webp","https://i.ibb.co/G5FqsKP/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse.webp","https://i.ibb.co/G5FqsKP/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse.webp","https://i.ibb.co/G5FqsKP/Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse.webp"]
     },
     {
         "id":"prod16",
-        "name":"Breed Dry Dog Food",
+        "name":"Nixeus-Type-X-RGB-Gaming-Mouse-Pad",
         "price":260,
-        "category":"pet",
+        "category":"gamepad",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -237,13 +237,13 @@
         "colors":["#76ABAE","#EEEEEE"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png"]
+        "images":["https://i.ibb.co/fkm0f49/Nixeus-Type-X-RGB-Gaming-Mouse-Pad.webp","https://i.ibb.co/fkm0f49/Nixeus-Type-X-RGB-Gaming-Mouse-Pad.webp","https://i.ibb.co/fkm0f49/Nixeus-Type-X-RGB-Gaming-Mouse-Pad.webp","https://i.ibb.co/fkm0f49/Nixeus-Type-X-RGB-Gaming-Mouse-Pad.webp","https://i.ibb.co/fkm0f49/Nixeus-Type-X-RGB-Gaming-Mouse-Pad.webp"]
     },
     {
         "id":"prod17",
-        "name":"Breed Dry Dog Food",
+        "name":"OSP-Home-Furnishings-Output-Mid-Back-LED-Lit-Gaming-Chair",
         "price":260,
-        "category":"pet",
+        "category":"chair",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -252,13 +252,13 @@
         "colors":["#76ABAE","#EEEEEE"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png","https://iili.io/JX3stkJ.png"]
+        "images":["https://i.ibb.co/gyJqTpr/OSP-Home-Furnishings-Output-Mid-Back-LED-Lit-Gaming-Chair.webp","https://i.ibb.co/gyJqTpr/OSP-Home-Furnishings-Output-Mid-Back-LED-Lit-Gaming-Chair.webp","https://i.ibb.co/gyJqTpr/OSP-Home-Furnishings-Output-Mid-Back-LED-Lit-Gaming-Chair.webp","https://i.ibb.co/gyJqTpr/OSP-Home-Furnishings-Output-Mid-Back-LED-Lit-Gaming-Chair.webp","https://i.ibb.co/gyJqTpr/OSP-Home-Furnishings-Output-Mid-Back-LED-Lit-Gaming-Chair.webp"]
     },
     {
         "id":"prod18",
-        "name":"CANON EOS DSLR Camera",
+        "name":"Steel-Series-New-Arctis-Nova-3-Multi-Platform-Gaming-Headset",
         "price":360,
-        "category":"camera",
+        "category":"headphone",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -267,13 +267,13 @@
         "colors":["#F9EFDB","#EBD9B4"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX9FHpn.png","https://iili.io/JX9FHpn.png","https://iili.io/JX9FHpn.png","https://iili.io/JX9FHpn.png","https://iili.io/JX9FHpn.png"]
+        "images":["https://i.ibb.co/71Qz0BG/YXLILI-Mouse-Pad-Gaming-Large-Mouse-Pad.webp","https://i.ibb.co/71Qz0BG/YXLILI-Mouse-Pad-Gaming-Large-Mouse-Pad.webp","https://i.ibb.co/71Qz0BG/YXLILI-Mouse-Pad-Gaming-Large-Mouse-Pad.webp","https://i.ibb.co/71Qz0BG/YXLILI-Mouse-Pad-Gaming-Large-Mouse-Pad.webp","https://i.ibb.co/71Qz0BG/YXLILI-Mouse-Pad-Gaming-Large-Mouse-Pad.webp"]
     },
     {
         "id":"prod19",
-        "name":"ASUS FHD Gaming Laptop",
+        "name":"OSP-Home-Furnishings-Uplink-Ergonomic-Adjustable-High-Back-Faux-Leather-Gaming-Chair",
         "price":700,
-        "category":"camera",
+        "category":"chair",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -282,13 +282,13 @@
         "colors":["#9DBC98","#638889"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX93y7t.png","https://iili.io/JX93y7t.png","https://iili.io/JX93y7t.png","https://iili.io/JX93y7t.png","https://iili.io/JX93y7t.png"]
+        "images":["https://i.ibb.co/FqsJpMk/OSP-Home-Furnishings-Uplink-Ergonomic-Adjustable-High-Back-Faux-Leather-Gaming-Chair.webp","https://i.ibb.co/FqsJpMk/OSP-Home-Furnishings-Uplink-Ergonomic-Adjustable-High-Back-Faux-Leather-Gaming-Chair.webp","https://i.ibb.co/FqsJpMk/OSP-Home-Furnishings-Uplink-Ergonomic-Adjustable-High-Back-Faux-Leather-Gaming-Chair.webp","https://i.ibb.co/FqsJpMk/OSP-Home-Furnishings-Uplink-Ergonomic-Adjustable-High-Back-Faux-Leather-Gaming-Chair.webp","https://i.ibb.co/FqsJpMk/OSP-Home-Furnishings-Uplink-Ergonomic-Adjustable-High-Back-Faux-Leather-Gaming-Chair.webp"]
     },
     {
         "id":"prod20",
-        "name":"Curology Product Set",
+        "name":"Perix-Periboard-317 Keyboard",
         "price":500,
-        "category":"beauty",
+        "category":"keyboard",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -297,13 +297,13 @@
         "colors":["#FDA403","#E8751A"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://freeimage.host/i/JX3Q9uj","https://freeimage.host/i/JX3Q9uj","https://freeimage.host/i/JX3Q9uj","https://freeimage.host/i/JX3Q9uj","https://freeimage.host/i/JX3Q9uj"]
+        "images":["https://i.ibb.co/CBtWf0k/perix-periboard-317-R.webp","https://i.ibb.co/CBtWf0k/perix-periboard-317-R.webp","https://i.ibb.co/CBtWf0k/perix-periboard-317-R.webp","https://i.ibb.co/CBtWf0k/perix-periboard-317-R.webp","https://i.ibb.co/CBtWf0k/perix-periboard-317-R.webp"]
     },
     {
         "id":"prod21",
-        "name":"Kids Electric Car",
+        "name":"Razer-Basilisk-V3-Customizable-Ergonomic-Gaming-Mouse",
         "price":220,
-        "category":"kids",
+        "category":"mouse",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -312,13 +312,13 @@
         "colors":["#FF8080","#CDFADB"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://freeimage.host/i/JX3QqcF","https://freeimage.host/i/JX3QqcF","https://freeimage.host/i/JX3QqcF","https://freeimage.host/i/JX3QqcF","https://freeimage.host/i/JX3QqcF"]
+        "images":["https://i.ibb.co/h87fHTm/Razer-Basilisk-V3-Customizable-Ergonomic-Gaming-Mouse.webp","https://i.ibb.co/h87fHTm/Razer-Basilisk-V3-Customizable-Ergonomic-Gaming-Mouse.webp","https://i.ibb.co/h87fHTm/Razer-Basilisk-V3-Customizable-Ergonomic-Gaming-Mouse.webp","https://i.ibb.co/h87fHTm/Razer-Basilisk-V3-Customizable-Ergonomic-Gaming-Mouse.webp","https://i.ibb.co/h87fHTm/Razer-Basilisk-V3-Customizable-Ergonomic-Gaming-Mouse.webp"]
     },
     {
         "id":"prod22",
-        "name":"Jr. Zoom Soccer Cleats",
+        "name":"Razer-Black-Shark-V2-X-Gaming-Headset",
         "price":450,
-        "category":"shoes",
+        "category":"headphone",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -327,13 +327,13 @@
         "colors":["#898121","#E5C287"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX9F9kX.png","https://iili.io/JX9F9kX.png","https://iili.io/JX9F9kX.png","https://iili.io/JX9F9kX.png","https://iili.io/JX9F9kX.png"]
+        "images":["https://i.ibb.co/JyfMqpp/Razer-Black-Shark-V2-X-Gaming-Headset.webp","https://i.ibb.co/JyfMqpp/Razer-Black-Shark-V2-X-Gaming-Headset.webp","https://i.ibb.co/JyfMqpp/Razer-Black-Shark-V2-X-Gaming-Headset.webp","https://i.ibb.co/JyfMqpp/Razer-Black-Shark-V2-X-Gaming-Headset.webp","https://i.ibb.co/JyfMqpp/Razer-Black-Shark-V2-X-Gaming-Headset.webp"]
     },
      {
         "id":"prod23",
-        "name":"Jr. Zoom Soccer Cleats",
+        "name":"Razer-Death-Adder-V3-Wired-Gaming-Mouse",
         "price":450,
-        "category":"shoes",
+        "category":"mouse",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -342,13 +342,13 @@
         "colors":["#898121","#E5C287"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX9F9kX.png","https://iili.io/JX9F9kX.png","https://iili.io/JX9F9kX.png","https://iili.io/JX9F9kX.png","https://iili.io/JX9F9kX.png"]
+        "images":["https://i.ibb.co/S7z1wD7/Razer-Death-Adder-V3-Wired-Gaming-Mouse.webp","https://i.ibb.co/S7z1wD7/Razer-Death-Adder-V3-Wired-Gaming-Mouse.webp","https://i.ibb.co/S7z1wD7/Razer-Death-Adder-V3-Wired-Gaming-Mouse.webp","https://i.ibb.co/S7z1wD7/Razer-Death-Adder-V3-Wired-Gaming-Mouse.webp","https://i.ibb.co/S7z1wD7/Razer-Death-Adder-V3-Wired-Gaming-Mouse.webp"]
     },
      {
         "id":"prod24",
-        "name":"Jr. Zoom Soccer Cleats",
+        "name":"Razer-Death-Adder-V3-Wired-Gaming-Mouse",
         "price":450,
-        "category":"shoes",
+        "category":"mouse",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -357,13 +357,13 @@
         "colors":["#898121","#E5C287"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX9F9kX.png","https://iili.io/JX9F9kX.png","https://iili.io/JX9F9kX.png","https://iili.io/JX9F9kX.png","https://iili.io/JX9F9kX.png"]
+        "images":["","","","",""]
     },
     {
         "id":"prod25",
-        "name":"GP11 Shooter USB Gamepad",
+        "name":"RESPAWN-110-Ergonomic-Gaming-Chair",
         "price":600,
-        "category":"gaming",
+        "category":"chair",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -372,13 +372,13 @@
         "colors":["#B2B377","#D2D180"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX93brN.png","https://iili.io/JX93brN.png","https://iili.io/JX93brN.png","https://iili.io/JX93brN.png","https://iili.io/JX93brN.png"]
+        "images":["https://i.ibb.co/HCqTRG8/RESPAWN-110-Ergonomic-Gaming-Chair.webp","https://i.ibb.co/HCqTRG8/RESPAWN-110-Ergonomic-Gaming-Chair.webp","https://i.ibb.co/HCqTRG8/RESPAWN-110-Ergonomic-Gaming-Chair.webp","https://i.ibb.co/HCqTRG8/RESPAWN-110-Ergonomic-Gaming-Chair.webp","https://i.ibb.co/HCqTRG8/RESPAWN-110-Ergonomic-Gaming-Chair.webp"]
     },
     {
         "id":"prod26",
-        "name":"Quilted Satin Jacket",
+        "name":"Sceptre-Curved-24-5-inch-Gaming-Monitor",
         "price":550,
-        "category":"clothes",
+        "category":"monitor",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -387,13 +387,13 @@
         "colors":["#E5E483","#F1F5A8"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png"]
+        "images":["https://i.ibb.co/tK0df91/Sceptre-Curved-24-5-inch-Gaming-Monitor.webp","https://i.ibb.co/tK0df91/Sceptre-Curved-24-5-inch-Gaming-Monitor.webp","https://i.ibb.co/tK0df91/Sceptre-Curved-24-5-inch-Gaming-Monitor.webp","https://i.ibb.co/tK0df91/Sceptre-Curved-24-5-inch-Gaming-Monitor.webp","https://i.ibb.co/tK0df91/Sceptre-Curved-24-5-inch-Gaming-Monitor.webp"]
     },
     {
         "id":"prod27",
-        "name":"Quilted Satin Jacket",
+        "name":"Sceptre-New-27-inch-Gaming-Monitor",
         "price":550,
-        "category":"clothes",
+        "category":"monitor",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -402,13 +402,13 @@
         "colors":["#E5E483","#F1F5A8"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png"]
+        "images":["https://i.ibb.co/bsyZVqJ/Sceptre-New-27-inch-Gaming-Monitor.webp","https://i.ibb.co/bsyZVqJ/Sceptre-New-27-inch-Gaming-Monitor.webp","https://i.ibb.co/bsyZVqJ/Sceptre-New-27-inch-Gaming-Monitor.webp","https://i.ibb.co/bsyZVqJ/Sceptre-New-27-inch-Gaming-Monitor.webp","https://i.ibb.co/bsyZVqJ/Sceptre-New-27-inch-Gaming-Monitor.webp"]
     },
     {
         "id":"prod28",
-        "name":"Quilted Satin Jacket",
+        "name":"Steel-Series-Aerox-5-Wireless Mouse",
         "price":550,
-        "category":"clothes",
+        "category":"mouse",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -417,13 +417,13 @@
         "colors":["#E5E483","#F1F5A8"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png"]
+        "images":["https://i.ibb.co/5r1zCrp/Steel-Series-Aerox-5-Wireless.webp","https://i.ibb.co/5r1zCrp/Steel-Series-Aerox-5-Wireless.webp","https://i.ibb.co/5r1zCrp/Steel-Series-Aerox-5-Wireless.webp","https://i.ibb.co/5r1zCrp/Steel-Series-Aerox-5-Wireless.webp","https://i.ibb.co/5r1zCrp/Steel-Series-Aerox-5-Wireless.webp"]
     },
     {
         "id":"prod29",
-        "name":"Quilted Satin Jacket",
+        "name":"Steel-Series-New-Arctis-Nova-3-Multi-Platform-Gaming-Headset",
         "price":550,
-        "category":"clothes",
+        "category":"headphone",
         "rating":5,
         "reviews":50,
         "off":"-30%",
@@ -432,6 +432,21 @@
         "colors":["#E5E483","#F1F5A8"],
         "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
         "size":["XS","S","M","L","XL"],
-        "images":["https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png","https://iili.io/JX93p2I.png"]
+        "images":["https://i.ibb.co/Q81NVNb/Steel-Series-New-Arctis-Nova-3-Multi-Platform-Gaming-Headset.webp","https://i.ibb.co/Q81NVNb/Steel-Series-New-Arctis-Nova-3-Multi-Platform-Gaming-Headset.webp","https://i.ibb.co/Q81NVNb/Steel-Series-New-Arctis-Nova-3-Multi-Platform-Gaming-Headset.webp","https://i.ibb.co/Q81NVNb/Steel-Series-New-Arctis-Nova-3-Multi-Platform-Gaming-Headset.webp","https://i.ibb.co/Q81NVNb/Steel-Series-New-Arctis-Nova-3-Multi-Platform-Gaming-Headset.webp"]
+    },
+    {
+        "id":"prod30",
+        "name":"UBOTIE-Wired-Mechanical-Gaming-Keyboard",
+        "price":550,
+        "category":"keyboard",
+        "rating":5,
+        "reviews":50,
+        "off":"-30%",
+        "type":"sale",
+        "availability":"In Stock",
+        "colors":["#E5E483","#F1F5A8"],
+        "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+        "size":["XS","S","M","L","XL"],
+        "images":["https://i.ibb.co/HFjbq1w/UBOTIE-Wired-Mechanical-Gaming-Keyboard.jpg","https://i.ibb.co/HFjbq1w/UBOTIE-Wired-Mechanical-Gaming-Keyboard.jpg","https://i.ibb.co/HFjbq1w/UBOTIE-Wired-Mechanical-Gaming-Keyboard.jpg","https://i.ibb.co/HFjbq1w/UBOTIE-Wired-Mechanical-Gaming-Keyboard.jpg","https://i.ibb.co/HFjbq1w/UBOTIE-Wired-Mechanical-Gaming-Keyboard.jpg"]
     },
 ]
