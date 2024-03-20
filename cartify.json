@@ -3,31 +3,46 @@
         "id":"prod1",
         "name":"HAVIT HV-G92 Gamepad",
         "price":120,
-        "category":"gamepad"
+        "category":"gamepad",
+        "rating":4,
+        "reviews":10,
+        "off":"-10%"
     },
     {
         "id":"prod1",
         "name":"HAVIT HV-G92 Gamepad",
         "price":120,
-        "category":"gamepad"
+        "category":"gamepad",
+        "rating":4,
+        "reviews":10,
+        "off":"-10%"
     },
     {
         "id":"prod1",
         "name":"HAVIT HV-G92 Gamepad",
         "price":120,
-        "category":"gamepad"
+        "category":"gamepad",
+        "rating":4,
+        "reviews":10,
+        "off":"-10%"
     },
     {
         "id":"prod1",
         "name":"HAVIT HV-G92 Gamepad",
         "price":120,
-        "category":"gamepad"
+        "category":"gamepad",
+        "rating":4,
+        "reviews":10,
+        "off":"-10%"
     },
     {
         "id":"prod1",
         "name":"HAVIT HV-G92 Gamepad",
         "price":120,
-        "category":"gamepad"
+        "category":"gamepad",
+        "rating":4,
+        "reviews":10,
+        "off":"-10%"
     }
 
 ]
