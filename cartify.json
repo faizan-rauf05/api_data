@@ -6,7 +6,12 @@
         "category":"gamepad",
         "rating":4,
         "reviews":10,
-        "off":"-10%"
+        "off":"-10%",
+        "type":"sale",
+        "availability":"In Stock",
+        "colors":["#FF8080","#CDFADB"],
+        "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+        "size":["XS","S","M","L","XL"]
     },
     {
         "id":"prod1",
@@ -15,7 +20,12 @@
         "category":"gamepad",
         "rating":4,
         "reviews":10,
-        "off":"-10%"
+        "off":"-10%",
+        "type":"sale",
+        "availability":"In Stock",
+        "colors":["#FF8080","#CDFADB"],
+        "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+        "size":["XS","S","M","L","XL"]
     },
     {
         "id":"prod1",
@@ -24,7 +34,12 @@
         "category":"gamepad",
         "rating":4,
         "reviews":10,
-        "off":"-10%"
+        "off":"-10%",
+        "type":"sale",
+        "availability":"In Stock",
+        "colors":["#FF8080","#CDFADB"],
+        "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+        "size":["XS","S","M","L","XL"]
     },
     {
         "id":"prod1",
@@ -33,7 +48,12 @@
         "category":"gamepad",
         "rating":4,
         "reviews":10,
-        "off":"-10%"
+        "off":"-10%",
+        "type":"sale",
+        "availability":"In Stock",
+        "colors":["#FF8080","#CDFADB"],
+        "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+        "size":["XS","S","M","L","XL"]
     },
     {
         "id":"prod1",
@@ -42,7 +62,12 @@
         "category":"gamepad",
         "rating":4,
         "reviews":10,
-        "off":"-10%"
+        "off":"-10%",
+        "type":"sale",
+        "availability":"In Stock",
+        "colors":["#FF8080","#CDFADB"],
+        "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+        "size":["XS","S","M","L","XL"]
     },
     {
         "id":"prod1",
@@ -51,7 +76,12 @@
         "category":"gamepad",
         "rating":4,
         "reviews":10,
-        "off":"-10%"
+        "off":"-10%",
+        "type":"sale",
+        "availability":"In Stock",
+        "colors":["#FF8080","#CDFADB"],
+        "description":"PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+        "size":["XS","S","M","L","XL"]
     }
 
 ]
