@@ -8,7 +8,7 @@
         "reviews":10,
         "off":"-10%",
         "type":"sale",
-        "availability":"In Stock",
+        "availability":"In Stock"
     },
     {
         "id":"prod1",
@@ -19,7 +19,7 @@
         "reviews":10,
         "off":"-10%",
         "type":"sale",
-        "availability":"In Stock",
+        "availability":"In Stock"
     },
     {
         "id":"prod1",
@@ -30,7 +30,7 @@
         "reviews":10,
         "off":"-10%",
         "type":"sale",
-        "availability":"In Stock",
+        "availability":"In Stock"
     },
     {
         "id":"prod1",
@@ -41,7 +41,7 @@
         "reviews":10,
         "off":"-10%",
         "type":"sale",
-        "availability":"In Stock",
+        "availability":"In Stock"
     },
     {
         "id":"prod1",
@@ -52,6 +52,6 @@
         "reviews":10,
         "off":"-10%",
         "type":"sale",
-        "availability":"In Stock",
+        "availability":"In Stock"
     }
 ]
