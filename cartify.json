@@ -30,7 +30,7 @@
 ]
 },
 {
-"id": "prod1",
+"id": "prod2",
 "name": "HAVIT HV-G92 Gamepad",
 "price": 120,
 "category": "gamepad",
@@ -60,7 +60,7 @@
 ]
 },
 {
-"id": "prod1",
+"id": "prod3",
 "name": "HAVIT HV-G92 Gamepad",
 "price": 120,
 "category": "gamepad",
@@ -90,7 +90,7 @@
 ]
 },
 {
-"id": "prod1",
+"id": "prod4",
 "name": "HAVIT HV-G92 Gamepad",
 "price": 120,
 "category": "gamepad",
@@ -120,7 +120,7 @@
 ]
 },
 {
-"id": "prod1",
+"id": "prod5",
 "name": "HAVIT HV-G92 Gamepad",
 "price": 120,
 "category": "gamepad",
@@ -150,7 +150,607 @@
 ]
 },
 {
-"id": "prod1",
+"id": "prod6",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod7",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod8",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod9",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod10",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod11",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod12",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod13",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod14",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod15",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod16",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod17",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod18",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod19",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod20",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+{
+"id": "prod21",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod22",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod23",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod24",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod25",
+"name": "HAVIT HV-G92 Gamepad",
+"price": 120,
+"category": "gamepad",
+"rating": 4,
+"reviews": 10,
+"off": "-10%",
+"type": "sale",
+"availability": "In Stock",
+"colors": [
+"#FF8080",
+"#CDFADB"
+],
+"description": "PlayStation 5 Controller Skin High quality vinyl with air channel adhesive for easy bubble free install & mess free removal Pressure sensitive.",
+"size": [
+"XS",
+"S",
+"M",
+"L",
+"XL"
+],
+"images": [
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp",
+"https://i.ibb.co/bQj9Mrj/ASUS-TUF-Gaming-Curved-Monitor.webp"
+]
+},
+  {
+"id": "prod26",
 "name": "HAVIT HV-G92 Gamepad",
 "price": 120,
 "category": "gamepad",
