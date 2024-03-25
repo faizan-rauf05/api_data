@@ -32,7 +32,7 @@
 {
 "id": "prod2",
 "name": "Wired-Mechanical-Gaming-Keyboard",
-"price": 120,
+"price": 150,
 "category": "keyboard",
 "rating": 3,
 "reviews": 10,
@@ -62,7 +62,7 @@
 {
 "id": "prod3",
 "name": "Sceptre-New-27-inch-Gaming-Monitor",
-"price": 120,
+"price": 50,
 "category": "monitor",
 "rating": 4,
 "reviews": 10,
@@ -92,7 +92,7 @@
 {
 "id": "prod4",
 "name": "Mouse-Pad-Gaming-Large-Mouse-Pad",
-"price": 120,
+"price": 10,
 "category": "mousepad",
 "rating": 5,
 "reviews": 10,
@@ -122,7 +122,7 @@
 {
 "id": "prod5",
 "name": "Steel Series Aerox-5 Wireless Mouse",
-"price": 120,
+"price": 20,
 "category": "mouse",
 "rating": 4.5,
 "reviews": 10,
@@ -152,7 +152,7 @@
 {
 "id": "prod6",
 "name": "Sceptre-Curved-24-5-inch-Gaming-Monitor",
-"price": 120,
+"price": 60,
 "category": "monitor",
 "rating": 3,
 "reviews": 10,
@@ -182,7 +182,7 @@
   {
 "id": "prod7",
 "name": "RESPAWN-110-Ergonomic-Gaming-Chair",
-"price": 120,
+"price": 160,
 "category": "gamepad",
 "rating": 4,
 "reviews": 10,
@@ -212,7 +212,7 @@
   {
 "id": "prod8",
 "name": "Razer-Death-Adder-V3-Wired-Gaming-Mouse",
-"price": 120,
+"price": 200,
 "category": "gamepad",
 "rating": 4,
 "reviews": 10,
@@ -242,7 +242,7 @@
   {
 "id": "prod9",
 "name": "Razer-Death-Adder-Essential-Gaming-Mouse",
-"price": 120,
+"price": 70,
 "category": "gamepad",
 "rating": 4,
 "reviews": 10,
@@ -272,7 +272,7 @@
   {
 "id": "prod10",
 "name": "Razer-Black-Shark-V2-X-Gaming-Headset",
-"price": 120,
+"price": 90,
 "category": "gamepad",
 "rating": 4.5,
 "reviews": 10,
@@ -302,7 +302,7 @@
     {
 "id": "prod11",
 "name": "Razer-Basilisk-V3-Customizable-Ergonomic-Gaming-Mouse",
-"price": 120,
+"price": 320,
 "category": "gamepad",
 "rating": 4.1,
 "reviews": 10,
@@ -332,7 +332,7 @@
   {
 "id": "prod12",
 "name": "perix-periboard-317-R",
-"price": 120,
+"price": 130,
 "category": "gamepad",
 "rating": 5,
 "reviews": 10,
@@ -422,7 +422,7 @@
   {
 "id": "prod15",
 "name": "Nixeus-Type-X-RGB-Gaming-Mouse-Pad",
-"price": 120,
+"price": 250,
 "category": "gamepad",
 "rating": 2.5,
 "reviews": 10,
@@ -452,7 +452,7 @@
   {
 "id": "prod16",
 "name": "Logitech-G305-LIGHTSPEED-Wireless-Gaming-Mouse",
-"price": 120,
+"price": 5,
 "category": "gamepad",
 "rating": 4,
 "reviews": 10,
@@ -482,7 +482,7 @@
   {
 "id": "prod17",
 "name": "Lenovo-Legion-Gaming-Laptop-Bag",
-"price": 120,
+"price": 140,
 "category": "gamepad",
 "rating": 4,
 "reviews": 10,
@@ -512,7 +512,7 @@
   {
 "id": "prod18",
 "name": "Gaming keyboard",
-"price": 120,
+"price": 230,
 "category": "gamepad",
 "rating": 5,
 "reviews": 10,
@@ -542,7 +542,7 @@
   {
 "id": "prod19",
 "name": "Redragon K585 DITI One-Handed RGB Mechanical Gaming Keyboard",
-"price": 120,
+"price": 10,
 "category": "gamepad",
 "rating": 4,
 "reviews": 10,
@@ -632,7 +632,7 @@
   {
 "id": "prod22",
 "name": "Corsair-TC100-Relaxed-Gaming-Chair",
-"price": 120,
+"price": 400,
 "category": "gamepad",
 "rating": 1,
 "reviews": 10,
@@ -662,7 +662,7 @@
   {
 "id": "prod23",
 "name": "CORSAIR-HS80-RGB-WIRELESS-Multiplatform-Gaming-Headset",
-"price": 120,
+"price": 500,
 "category": "gamepad",
 "rating": 4,
 "reviews": 10,
@@ -692,7 +692,7 @@
   {
 "id": "prod24",
 "name": "Acer-Nitro-Curved-Full-HD",
-"price": 120,
+"price": 250,
 "category": "gamepad",
 "rating": 5,
 "reviews": 10,
